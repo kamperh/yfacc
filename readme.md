@@ -11,7 +11,8 @@ The dataset is described in the following paper. Please cite the paper if you us
 
 ## Download
 
-YFACC (6.8 GB): [yfacc_v6.tar.gz](https://stellenbosch-my.sharepoint.com/:u:/g/personal/kamperh_sun_ac_za/EVIipO4ZXvNLucAXx0evXpcBXaAE6S0gAXfWIBvUOv1XrA)  
+<!-- YFACC (6.8 GB): [yfacc_v6.tar.gz](https://stellenbosch-my.sharepoint.com/:u:/g/personal/kamperh_sun_ac_za/EVIipO4ZXvNLucAXx0evXpcBXaAE6S0gAXfWIBvUOv1XrA)   -->
+YFACC (6.8 GB): [yfacc_v6.tar.gz](https://www.dropbox.com/s/3u86f9on8flz9ny/yfacc_v6.tar.gz?dl=0)  
 MD5 checksum: 774b9e00e36f5c848ea106c46a98176b
 
 
