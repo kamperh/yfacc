@@ -1,5 +1,3 @@
-## Overview
-
 The Yorùbá Flickr Audio Caption Corpus (YFACC) dataset extends the [Flickr8k image-text dataset](https://forms.illinois.edu/sec/1713398) to Yorùbá with three modalities:
 
 1. Yorùbá translations of 6k of the captions.
@@ -13,7 +11,8 @@ The dataset is described in the following paper. Please cite the paper if you us
 
 ## Download
 
-YFACC ()
+YFACC (): 
+MD5 checksum: 
 
 Flickr Audio Corpus (4.2 GB): Download gzip'd tar file
 MD5 checksum: 9d078f1f150c26e864aa64d1d733779a 
