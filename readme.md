@@ -11,12 +11,12 @@ The dataset is described in the following paper. Please cite the paper if you us
 
 ## Download
 
-YFACC (6.8 GB): [yfacc_v6.tar.gz](missing_link)  
+YFACC (6.8 GB): [yfacc_v6.tar.gz]([missing_link](https://stellenbosch-my.sharepoint.com/:u:/g/personal/kamperh_sun_ac_za/EVIipO4ZXvNLucAXx0evXpcBXaAE6S0gAXfWIBvUOv1XrA))  
 MD5 checksum: 774b9e00e36f5c848ea106c46a98176b
 
 
 ## License
 
 Kayode Olaleye, Dan Oneață̆, Herman Kamper, 2022.  
-This work is released under a Creative Commons Attribution-ShareAlike
+This data is released under a Creative Commons Attribution-ShareAlike
 license ([CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)).
