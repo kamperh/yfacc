@@ -1,3 +1,4 @@
-title: YFACC
+title: YFACC -- Yorùbá Flickr Audio Caption Corpu
+description: A Yorùbá speech-image dataset for cross-lingual keyword localisation through visual grounding
 show_downloads: false
 theme: jekyll-theme-slate
