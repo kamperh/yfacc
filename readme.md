@@ -18,6 +18,7 @@ MD5 checksum: 774b9e00e36f5c848ea106c46a98176b
 
 ## License
 
-Kayode Olaleye, Dan Oneață̆, Herman Kamper, 2022.  
+<!-- Kayode Olaleye, Dan Oneață̆, Herman Kamper, 2022.  -->
+@copy; 2022 Stellenbosch University.  
 This data is released under a Creative Commons Attribution-ShareAlike
 license ([CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)).
