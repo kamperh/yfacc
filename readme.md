@@ -11,11 +11,9 @@ The dataset is described in the following paper. Please cite the paper if you us
 
 ## Download
 
-YFACC (): 
-MD5 checksum: 
+YFACC (6.8 GB): [yfacc_v6.tar.gz](missing_link)  
+MD5 checksum: 774b9e00e36f5c848ea106c46a98176b
 
-Flickr Audio Corpus (4.2 GB): Download gzip'd tar file
-MD5 checksum: 9d078f1f150c26e864aa64d1d733779a 
 
 ## License
 
