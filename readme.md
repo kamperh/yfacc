@@ -8,7 +8,7 @@ The Yorùbá Flickr Audio Caption Corpus (YFACC) dataset extends the [Flickr8k
 
 The dataset is described in the following paper. Please cite the paper if you use the data:
 
-- K. Olaleye, D. Oneață, and H. Kamper, "A Yorùbá speech-image dataset for cross-lingual keyword localisation through visual grounding," accepted to *SLT*, 2022. [[arxiv](missing_link)]
+- K. Olaleye, D. Oneață, and H. Kamper, "A Yorùbá speech-image dataset for cross-lingual keyword localisation through visual grounding," accepted to *SLT*, 2022. [[arXiv](missing_link)]
 
 
 ## Download
