@@ -13,7 +13,7 @@ use the data:
 
 - K. Olaleye, D. Oneață, and H. Kamper, "A Yorùbá speech-image dataset for
   cross-lingual keyword localisation through visual grounding," accepted to
-  *SLT*, 2022. [[arXiv](missing_link)]
+  *SLT*, 2023. [[arXiv](https://arxiv.org/abs/2210.04600)]
 
 
 ## Download
