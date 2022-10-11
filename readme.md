@@ -19,8 +19,8 @@ use the data:
 ## Download
 
 YFACC (6.8 GB):
-[yfacc_v6.tar.gz](https://www.dropbox.com/s/3u86f9on8flz9ny/yfacc_v6.tar.gz?dl=0)  
-MD5 checksum: 774b9e00e36f5c848ea106c46a98176b
+[yfacc_v6.tar.gz](https://www.dropbox.com/s/wbpyd08t29airsg/yfacc_v6.tar.gz?dl=0)  
+MD5 checksum: 7e086f4424246e3dfc742abba488c429
 
 
 ## License
